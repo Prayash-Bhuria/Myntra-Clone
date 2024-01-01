@@ -37,11 +37,11 @@ Ensure you have a web browser installed, such as Google Chrome, Firefox, or Safa
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/myntra-landing-page.git`
-2. Open `index.html` in your preferred browser.
+2. Open `myntra.html` in your preferred browser.
 
 ## Usage
 
-Open the `index.html` file in your web browser to explore the Myntra.com landing page replica.
+Open the `myntra.html` file in your web browser to explore the Myntra.com landing page replica.
 
 ## Built With
 
