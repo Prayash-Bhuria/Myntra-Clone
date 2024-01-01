@@ -36,7 +36,7 @@ Ensure you have a web browser installed, such as Google Chrome, Firefox, or Safa
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/myntra-landing-page.git`
+1. Clone the repository: `git clone https://github.com/Prayash-Bhuria/Myntra-Clone.git`
 2. Open `myntra.html` in your preferred browser.
 
 ## Usage
